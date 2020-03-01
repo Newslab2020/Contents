@@ -1,18 +1,18 @@
  
 
-# 新闻实验室会员通讯目录
+# 新闻实验室会员通讯目录  
 
-> 问：如何阅读会员通讯？
-> 答：[点此](http://newslab.info/)加入新闻实验室会员计划即可开始收到今后的通讯。
-> 问：加入会员计划之后，可以看到此前这些内容吗？
-> 答：需根据相应的时间长度购买。例如，从第001期到108期是一年的内容，需支付300元购买。
+> 问：如何阅读会员通讯？  
+> 答：[点此](http://newslab.info/)加入新闻实验室会员计划即可开始收到今后的通讯。  
+> 问：加入会员计划之后，可以看到此前这些内容吗？  
+> 答：需根据相应的时间长度购买。例如，从第001期到108期是一年的内容，需支付300元购买。  
 
-### 试读文章
+### 试读文章  
 
-通讯253：[《黑镜》新片：交互是电影业的未来吗？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/yJVyFmgFP61mtnlm1HHH6g)
-通讯165：[Facebook“数据门”究竟是怎么回事？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/KBkbkl6RqE-UHZNrRQaxDA)
-通讯119：[互联网的“注意力经济”会毁掉我们吗？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/hjEBNUph37tQRku4ukj44g)
-通讯53：[一门叫做“抵制狗屁”的大学课程](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/8Cds0bZq7XXy4wK-3QA4JA)
+通讯253：[《黑镜》新片：交互是电影业的未来吗？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/yJVyFmgFP61mtnlm1HHH6g)  
+通讯165：[Facebook“数据门”究竟是怎么回事？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/KBkbkl6RqE-UHZNrRQaxDA)   
+通讯119：[互联网的“注意力经济”会毁掉我们吗？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/hjEBNUph37tQRku4ukj44g)   
+通讯53：[一门叫做“抵制狗屁”的大学课程](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/8Cds0bZq7XXy4wK-3QA4JA)   
 
 ------
 
