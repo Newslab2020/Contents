@@ -1,5 +1,23 @@
 # 新闻实验室微信公众号文章汇总   
 
+
+各位好！谢谢你们的关心和支持！  
+
+这里是“新闻实验室”微信公号的历史文章备份。目前，这些文章中可能还存在一些格式问题或链接失效问题，我们会逐步修复。  
+
+感谢提供备份文件的网友以及帮忙搭建这个github页面的小伙伴们。  
+
+关于今后的联系方式，[请在这里登记防失联邮箱](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)（已经登记过的朋友无需再次登记，欢迎邀请朋友登记），有消息将会通过邮件告知大家。  
+
+新闻实验室会员计划在继续运行，[感兴趣的朋友可以点击这里加入。](http://newslab.info/join/)  
+
+我依然有一个梦想，人人拥有优质信息。我们可以做的还有很多。  
+
+与你共勉。  
+
+——方可成  
+2020.3.2  
+
 ## 互联网观察
 
 1. [ 2014-01-21 越来越多人从社交网络读新闻，他们的阅读习惯如何？](https://newslab2020.github.io/Collection/%E4%BA%92%E8%81%94%E7%BD%91%E8%A7%82%E5%AF%9F/%5B%E6%96%B0%E9%97%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%5D%20-%202014-01-21%20%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E4%BB%8E%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E8%AF%BB%E6%96%B0%E9%97%BB%EF%BC%8C%E4%BB%96%E4%BB%AC%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A0%E6%83%AF%E5%A6%82%E4%BD%95%EF%BC%9F.html)
