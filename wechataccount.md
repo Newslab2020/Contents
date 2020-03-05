@@ -31,6 +31,7 @@
 * [科技文艺生活](#科技文艺生活)
 * [识别假新闻](#识别假新闻)
 
+按时间顺序排列的目录请点击[这里](https://github.com/Newslab2020/Collection/blob/master/README.md)~
 
 ## 互联网观察
 
